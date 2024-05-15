@@ -1,0 +1,8 @@
+"Sr. no",Creator,"First name","Last name","Company/Display name",Email,Mobile,Postcode,Street,Town,Country,"Number of properties","Number of available","Number of processing","Number of let","Created at"
+1,"Test Agency",Landlord,Dummy,Dell,landlord@yopmail.com,1234567898,e17as,"Apartment 1005, Wiverton Tower, London",London,England,2,1,1,0,2024-04-15
+2,"Test Agency",elishasd,ellasd,dell,landlorddeltaasdf@yopmail.com,6397950539,e17as,"Apartment 1005 Wiverton Tower 4 New Drum Street London, Apartment 1005 Wiverton Tower 4 New Drum Street London",London,England,1,0,1,0,2024-04-17
+3,"Test Agency",Test,Landlord2,"Test Landlord2",goodman123@yopmail.com,1234567890,BL00AF,"7 Croft End Place, Ramsbottom, Bury, Lancashire",Bury,England,0,0,0,0,2024-04-24
+4,"Test Agency",Test,Landlord1,TestLandlord2,jacky123@yopmail.com,1255293048,PO167GZ,"Smart Softwares And Technologies Limited, 23 Owen Close, Fareham, Hampshire",Fareham,England,1,0,0,1,2024-04-24
+5,"Test Agency",Mike,Tyson,"Mike Tyson",miketyson@yopmail.com,1234567890,BL00AF,"7 Croft End Place, Ramsbottom, Bury, Lancashire",Bury,England,1,0,1,0,2024-04-17
+6,"Test Agency",hero,landlord,Hero,herolandlord@yopmail.com,6397950539,e17as,"Apartment 1101, Wiverton Tower, 4 New Drum Street, London",London,England,1,1,0,0,2024-04-24
+7,"Test Agency",landlord,test2,"Landlord 2",landlord.test.kkk@yopmail.com,1234567890,e17as,"Wiverton Tower, London, Greater London",London,England,1,0,1,0,2024-04-25
